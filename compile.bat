@@ -1,0 +1,3 @@
+set PATH=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\bin\Hostx64\x64;C:\Users\andra\.cargo\bin;C:\Program Files (x86)\Calibre2\;C:\Users\andra\.cargo\bin;C:\Users\andra\AppData\Local\Microsoft\WindowsApps;C:\Users\andra\AppData\Local\bin\NASM;
+set LIB=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\lib\x64;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\um\x64;C:\Program Files (x86)\Windows Kits\10\Lib\10.0.18362.0\ucrt\x64
+ml64 hello.asm
